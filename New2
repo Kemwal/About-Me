@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+	   <title>
+	   </title>
+	</head><table border="1" width="100%" cellspacing="10" cellpadding="5" >
+	<caption><h3>
+			<caption><h3>Students Score Report</h3></caption>
+					<tr><th rowspan="3"CLASS</th>
+						<th rowspan="3">ROLL_NO.</th>
+						<th rowspan="3">NAME</th>
+						<th colspan="2">MARKS</th>
+						<th colspan="2">RESULTS</th>
+					</tr>
+					<tr>
+					 <th>MAT</th>
+					 <th>PHY</th>
+					 <th>CHM</TH>
+					 <th>Total</th>
+					 <th>Avg</th>
+					 <th>Grade</th>
+					 </tr>
+					<td rowspan="4">7th Class</td>
+					
