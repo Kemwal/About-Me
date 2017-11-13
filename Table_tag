@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+	   <title>Table Tag</title>
+	 </head>
+		<body>
+			<table> 
+				<caption><h3>A Sample Table</h3></caption>
+			<tr>
+				<th>SINo</th>
+				<th>Item</th>
+				<th>Quantity</th>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Rice</td>
+				<td>120</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>dal</td>
+				<td>120 Kg</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Sugar</td>
+				<td>120 Kg</td>
+			</tr>
+		</table>
+		<table border="1" >
+			<caption><h3>A Sample Table</h3>
+		<tr>
+				<th>SINo</th>
+				<th>Item</th>
+				<th>Quantity</th>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Rice</td>
+				<td>120</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>dal</td>
+				<td>120 Kg</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Sugar</td>
+				<td>120 Kg</td>
+			</tr>
+		</table>
+		<table border="1" width="100%" >
+			<caption><h3>A Sample Table</h3>
+					<tr>
+				<th>SINo</th>
+				<th>Item</th>
+				<th>Quantity</th>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Rice</td>
+				<td>120</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>dal</td>
+				<td>120 Kg</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Sugar</td>
+				<td>120 Kg</td>
+			</tr>
+		</table>
+		<table border="1" width="100%" cellspacing="25" cellpaddind="10" >
+			<caption><h3>A Sample Table</h3>
+					<tr>
+				<th>SINo</th>
+				<th>Item</th>
+				<th>Quantity</th>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Rice</td>
+				<td>120</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>dal</td>
+				<td>120 Kg</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Sugar</td>
+				<td>120 Kg</td>
+			</tr>
+		</table>
+	</body>
+</HTML>
