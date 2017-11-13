@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+	   <title>
+	   </title>
+	</head><table border="1" width="100%" cellspacing="10" cellpadding="5" >
+	<caption><h3>
+			<caption><h3>Items Category wise Price table</h3></caption>
+					<tr><th rowspan="2">Category</th>
+						<th rowspan="2">SINo</th>
+						<th rowspan="2">Name</th>
+						<th colspan="2">Price</th>
+					</tr>
+					<tr>
+						<th>Rs. </th>
+						<th>Rs. </th>
+					</tr>
+					<tr>
+						<td rowspan="4">Fruitds</td>
+						<td>1</td>
+						<td>Apple</td>
+						<td>100</td>
+						<td>00</td>
+					</tr>
+					<tr>
+						<td rowspan="4">Fruitds</td>
+						<td>2</td>
+						<td>Mango</td>
+						<td>200</td>
+						<td>00</td>
+					</tr>
+					<tr>
+						<td rowspan="4">Fruitds</td>
+						<td>3</td>
+						<tdGrapes</td>
+						<td>60</td>
+						<td>00</td>
+					</tr>
+					<tr>
+						<td rowspan="4">Fruitds</td>
+						<td>4</td>
+						<td>Guava</td>
+						<td>10</td>
+						<td>00</td>
+					</tr>
+					<tr>
+						<th colspan="5">
+						Items once billed can be neither exchanged nor returned.
+						</th>
+					</tr>
+				</table>
+			</body>
+		</HTML>
+					
+					
+					
+					
+					
+					
+					
+					
+				
