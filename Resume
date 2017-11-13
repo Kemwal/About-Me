@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<HTML>
+	<HEAD>
+	   <title>PageOne</title>
+	 </HEAD>
+	 
+	 <BODY>
+		<H2 align="center"> CURRICULUM VITAE</H2>
+		<H3><i>Kritika Thapliyal</i></H3>
+		<H3><b>CONTACT NO. </b>8534812574</i></H3>
+		<H3><b>email id:- </b>kritikathapliyal20@gmail.com</i></H3>
+		<img src="C:\Users\kthapliy\Desktop\Kritika.jpg" alt="photo" width="10%" height="10%"/>
+		<p><b> AIM: </b> To be the part of your organisation to showcase my technical skills and polish my new technical knowledge </p>
+		<HR>
+			<h1> Educational Background: </h1>
+			<TABLE border="1" width="100%" cellspacing="10" cellpadding="5">
+			<tr>
+				<td> CLASS </td> 
+				<td> UNIVERSITY/BOARD </TD>
+				<TD> CGPA/PERCENTAGE </TD>
+				<TD> BATCH </TD>
+			</TR>
+			
+			<TR> 
+			<TD>B.Tech</td>
+			<TD>GRAPHIC ERA UNIVERSITY</td>
+			<TD>8.0</td>
+			<TD>2013-17</td>
+			</TR>
+			<TR> 
+			<TD>12th</td>
+			<TD>CBSE</td>
+			<TD>76.4</td>
+			<td>2011-12</td>
+			</TR>
+			<TR> 
+			<TD>10th</td>
+			<TD>CBSE</td>
+			<TD>9.0</td>
+			<td>2009-10</td>
+			</TR>
+		</TABLE>
+	<H1> ACHIEVEMENTS: </H1>
+		<OL TYPE:"i">
+		<li> Level A certification on French language. </li>
+		<li> Volunteer of Prithvi Mitra Club. </li>
+		<li> Winner of Volleyball President Cup In Graphic Era University. </li>
+	</ol>
+		<h4>HOBBIES</H4>
+		<ul type = "circle">
+			<li>Writing poetry</li>
+			<li>Making Crafts</li>
+			<li> Sketching</li>
+		</ul>
+		
+		<h4>STRENGHTH: </h4>
+		<ul type= "circle">
+		<li>Tolerence</li>
+		<li>Communication Skills</li>
+	</ul>
+	<h4> PERSONAL INFORMATION </h4>
+	<ul type ="circle">
+		<li><b>Name:</b>Kritika Thapliyal </li>
+		<li><b>Contact No.:</b>8534812574 </li>
+		<li><b>Email Id:</b>kritikathapliyal20@gmail.com </li>
+		<li><b>Father's Name:</b>B.P. Thapliyal </li>
+		<li><b>DOB:</b>27th Sept,1994 </li>
+		<li><b>Nationality:</b>Indian </li>
+		<li><b>Languages Known:</b>Hindi,English,French </li>
+	</ul>
+	
+	</BODY>
+</HTML>
+	
+			
